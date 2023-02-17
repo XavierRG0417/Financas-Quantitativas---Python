@@ -1,4 +1,4 @@
-# Python-For-Finance
+# Python Para Finanças
 O código é uma função chamada "risk_analysis" que realiza a análise de risco de ações de várias empresas com base em dados históricos de preços de ações, plotando vários gráficos para cada uma das ações.
 
 Para executar a análise, a função solicita ao usuário que insira o símbolo da ação (ticker) separado por vírgula, bem como a data de início e término do período de análise. A partir desses inputs, a função faz a requisição dos dados históricos de preços de ações usando a biblioteca yfinance.
