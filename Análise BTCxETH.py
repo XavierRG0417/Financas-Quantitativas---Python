@@ -1,3 +1,6 @@
+# Este script utiliza as bibliotecas yfinance, QuantStats, pandas e matplotlib para comparar o desempenho do Bitcoin e Ethereum,
+# gerando um relatório HTML detalhado e um gráfico de retornos acumulados. As funções e métodos utilizados são explicados em comentários ao longo do código.
+
 # Importar as bibliotecas necessárias
 import yfinance as yf  # Biblioteca para obter dados financeiros do Yahoo Finance
 import quantstats as qs  # Biblioteca para análise estatística e visualização de ativos financeiros
