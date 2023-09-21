@@ -1,6 +1,7 @@
 # Análise Quantitativa de Investimentos: Otimização de Portfólio de Markowitz com Simulação de Monte Carlo
 
 Sobre o Projeto:
+
 Este projeto busca aplicar métodos quantitativos de análise financeira para otimizar uma carteira de investimentos. 
 Utilizamos a Teoria de Carteira de Markowitz, um pilar na área de finanças, juntamente com a Simulação de Monte Carlo, um método estatístico, para analisar e simular cenários de investimento.
 
